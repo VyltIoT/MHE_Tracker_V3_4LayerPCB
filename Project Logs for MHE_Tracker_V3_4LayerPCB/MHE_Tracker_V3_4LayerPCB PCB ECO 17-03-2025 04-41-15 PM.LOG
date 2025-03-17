@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3V3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Change Component Footprint: Designator=C6 Old Footprint=CAPC2012X13L New Footprint=CAPC1608X10N
+Change Component Comment : Designator=C6 Old Comment=MLCC_0805 New Comment=ERP_102-1
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPC2012X13L"; UniqueID = "\SQDBTPBC\ZLKDYTYH" ("\SQDBTPBC\ZLKDYTYH")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CL10A105KB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=IR_OUT Pin=R30-1
+Added Component: Designator=R40(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-470GRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SD_CS Pin=R24-1
+Added Pin To Net: NetName=IR_OUT Pin=R28-1
+Added Pin To Net: NetName=SD_SCLK Pin=R29-1
+Added Pin To Net: NetName=SD_MISO Pin=R30-1
+Added Pin To Net: NetName=SD_MOSI Pin=R40-1
+Added Pin To Net: NetName=NetM1_37 Pin=M1-37
+Added Pin To Net: NetName=NetM1_37 Pin=R40-2
+Added Net: Name=NetM1_37
+Added Member To Class: ClassName=Controller Member=Component R40 ERP_101-1

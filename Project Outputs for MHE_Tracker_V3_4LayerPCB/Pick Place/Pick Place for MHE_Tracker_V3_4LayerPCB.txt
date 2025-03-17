@@ -1,0 +1,120 @@
+Altium Designer Pick and Place Locations
+C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\MHE_Tracker_V3_4LayerPCB\Project Outputs for MHE_Tracker_V3_4LayerPCB\Pick Place\Pick Place for MHE_Tracker_V3_4LayerPCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17-03-25
+Time:       17:34
+Revision:   8f77dc4fc88ee4996597ee48f49533ede0782f5a
+Variant:    No variations
+Units used: mil
+
+Designator Comment                   Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                   
+R40        ERP_101-1                 TopLayer RES_0603                   1043.307      440.945       0        RES_0603                                                                                      
+R39        ERP_101-1                 TopLayer RES_0603                   718.504       1112.205      90       RES_0603                                                                                      
+R38        ERP_101-1                 TopLayer RES_0603                   797.244       1112.205      90       RES_0603                                                                                      
+R23        ERP_101-1                 TopLayer RES_0603                   797.244       521.653       270      RES_0603                                                                                      
+R20        ERP_101-1                 TopLayer RES_0603                   718.504       521.653       270      RES_0603                                                                                      
+C6         ERP_102-1                 TopLayer CAPC1608X10N               875.984       521.653       90       "MLCC 0603"                                                                                   
+R21        ERP_101-1                 TopLayer RES_0603                   1692.914      285.433       0        RES_0603                                                                                      
+R19        ERP_101-1                 TopLayer RES_0603                   1604.331      206.693       180      RES_0603                                                                                      
+Q2         ERP_105-1                 TopLayer MMBT2222                   1437.008      246.063       270      MMBT2222A                                                                                     
+J7         5033981892                TopLayer 5033981892                 364.173       836.614       270      "9 (8 + 1) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold" 
+U11        FOD817A3SD                TopLayer FOD817A3SD                 2578.740      1102.362      90       "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                                                            
+SW4        ERP_110-4                 TopLayer ActiveBuzzer12MM           2746.063      1820.866      0        "SWITCH SLIDE SPDT 200MA 30V"                                                                 
+R68        ERP_101-1                 TopLayer RES_0603                   2765.748      1289.370      180      RES_0603                                                                                      
+R67        ERP_101-1                 TopLayer RES_0603                   2775.591      1397.638      270      RES_0603                                                                                      
+R66        ERP_101-1                 TopLayer RES_0603                   2736.220      1043.307      90       RES_0603                                                                                      
+R65        ERP_101-1                 TopLayer RES_0603                   2696.850      1397.638      90       RES_0603                                                                                      
+R64        ERP_101-1                 TopLayer RES_0603                   2736.220      1181.102      90       RES_0603                                                                                      
+Q3         ERP_105-1                 TopLayer MMBT2222                   2893.701      1476.378      0        MMBT2222A                                                                                     
+R54        ERP_101-1                 TopLayer RES_0603                   2143.307      1466.535      0        RES_0603                                                                                      
+R53        ERP_101-1                 TopLayer RES_0603                   2356.299      1624.016      270      RES_0603                                                                                      
+R46        ERP_101-1                 TopLayer RES_0603                   1043.307      1043.307      0        RES_0603                                                                                      
+R34        ERP_101-1                 TopLayer RES_0603                   2234.252      836.614       180      RES_0603                                                                                      
+R27        ERP_101-1                 TopLayer RES_0603                   2234.252      974.410       180      RES_0603                                                                                      
+J4         ERP_148-2                 TopLayer 6PX1R_F                    1655.906      108.268       0        "6PX1R Female Header"                                                                         
+R31        ERP_101-1                 TopLayer RES_0603                   1043.307      698.819       0        RES_0603                                                                                      
+R30        ERP_101-1                 TopLayer RES_0603                   1043.307      767.716       0        RES_0603                                                                                      
+R29        ERP_101-1                 TopLayer RES_0603                   1043.307      836.614       0        RES_0603                                                                                      
+R28        ERP_101-1                 TopLayer RES_0603                   1043.307      905.512       0        RES_0603                                                                                      
+R26        ERP_101-1                 TopLayer RES_0603                   2234.252      1043.307      180      RES_0603                                                                                      
+R25        ERP_101-1                 TopLayer RES_0603                   2234.252      531.496       0        RES_0603                                                                                      
+R24        ERP_101-1                 TopLayer RES_0603                   1043.307      974.409       0        RES_0603                                                                                      
+R16        ERP_101-1                 TopLayer RES_0603                   1250.787      1354.567      270      RES_0603                                                                                      
+C2         ERP_102-1                 TopLayer CAPC1608X10N               2033.465      1940.945      180      "MLCC 0603"                                                                                   
+C1         ERP_102-1                 TopLayer CAPC1608X10N               2033.465      1862.205      180      "MLCC 0603"                                                                                   
+R11        ERP_101-1                 TopLayer RES_0603                   364.173       1978.347      0        RES_0603                                                                                      
+R7         ERP_101-1                 TopLayer RES_0603                   216.536       1978.347      0        RES_0603                                                                                      
+R12        ERP_101-1                 TopLayer RES_0603                   2244.882      2283.465      180      RES_0603                                                                                      
+D1         LED_3MM_RIGHT_ANGLE       TopLayer LED_3MM_GREEN_RIGHT_ANGLE  2244.882      2421.260      180      LED_3MM                                                                                       
+C4         ERP_102-1                 TopLayer CAPC1608X10N               2159.548      408.151       90       "MLCC 0603"                                                                                   
+R37        ERP_101-1                 TopLayer RES_0603                   2234.252      698.819       180      RES_0603                                                                                      
+U5         74LVC125A                 TopLayer SOIC127P600X175-14M        295.276       1692.913      270      "Buffer, Non-Inverting 4 Element 1 Bit per Element 3-State Output 14-DHVQFN (2.5x3)"          
+R36        ERP_101-1                 TopLayer RES_0603                   2234.252      629.921       180      RES_0603                                                                                      
+R35        ERP_101-1                 TopLayer RES_0603                   2234.252      905.512       0        RES_0603                                                                                      
+R33        ERP_101-1                 TopLayer RES_0603                   2234.252      767.717       180      RES_0603                                                                                      
+R32        ERP_101-1                 TopLayer RES_0603                   1043.307      629.921       0        RES_0603                                                                                      
+R58        ERP_101-1                 TopLayer RES_0603                   2982.284      2165.354      90       RES_0603                                                                                      
+U8         XL4015                    TopLayer XL4015                     3628.642      1112.205      180      "5A 180KHz 36V Buck DC to DC Converter"                                                       
+D4         ERP_104-3                 TopLayer DIOM6959X26L               3690.945      620.079       0        ""                                                                                            
+C10        ERP_102-1                 TopLayer CAPC1608X10N               3663.449      1387.858      180      "Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density"                               
+J6         KLDX-0202-AC              TopLayer KLDX-0202-AC               3188.976      2082.677      270      "CONN PWR JACK 2X5.5MM KINKED PIN"                                                            
+M1         ESP32-WROOM-32E           TopLayer ESP32-WROOM-32UE           1653.543      740.551       180      "ESP32-WROOM-32E Module"                                                                      
+SW3        ERP_110-4                 TopLayer PBH2U                      3700.787      2159.449      180      "Pushbutton Switch DPDT Standard Through Hole, Right Angle"                                   
+C15        ERP_102-1                 TopLayer CAPC1608X10N               2698.819      207.846       270      "MLCC 0603"                                                                                   
+R57        ERP_101-1                 TopLayer RES_0603                   3804.367      831.180       90       RES_0603                                                                                      
+R56        ERP_101-1                 TopLayer RES_0603                   3729.985      831.180       270      RES_0603                                                                                      
+C14        ERP_102-1                 TopLayer CAPC1608X10N               2770.087      207.846       270      "Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density"                               
+C12        ERP_102-2                 TopLayer CAP_D12.5_H21_P5           3287.402      334.646       0        "Electrolytic Capacitor Through Hole D12.5 P5.0"                                              
+L1         ERP_103-3                 TopLayer IND_1212                   3019.636      880.309       270      IND_1212                                                                                      
+C11        ERP_102-2                 TopLayer CAP_D12.5_H21_P5           3287.402      1614.173      180      "Electrolytic Capacitor Through Hole D12.5 P5.0"                                              
+C13        ERP_102-1                 TopLayer CAPC1608X10N               3663.449      1453.114      180      "Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density"                               
+U2         FOD817A3SD                TopLayer FOD817A3SD                 669.291       1643.701      270      "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                                                            
+U1         FOD817A3SD                TopLayer FOD817A3SD                 935.039       1643.701      270      "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                                                            
+U4         FOD817A3SD                TopLayer FOD817A3SD                 1200.787      1643.701      270      "OPTOISOLATOR 5KV TRANSISTOR 4SMD"                                                            
+R14        ERP_101-1                 TopLayer RES_0603                   619.291       1354.567      90       RES_0603                                                                                      
+R6         ERP_101-1                 TopLayer RES_0603                   688.976       1929.134      180      RES_0603                                                                                      
+R3         ERP_101-1                 TopLayer RES_0603                   719.291       1354.567      270      RES_0603                                                                                      
+R13        ERP_101-1                 TopLayer RES_0603                   885.039       1354.567      90       RES_0603                                                                                      
+R4         ERP_101-1                 TopLayer RES_0603                   590.551       1958.661      90       RES_0603                                                                                      
+R2         ERP_101-1                 TopLayer RES_0603                   864.825       1958.661      90       RES_0603                                                                                      
+R18        ERP_101-1                 TopLayer RES_0603                   1150.787      1354.567      90       RES_0603                                                                                      
+R17        ERP_101-1                 TopLayer RES_0603                   1220.472      1909.449      180      RES_0603                                                                                      
+R5         ERP_101-1                 TopLayer RES_0603                   955.512       1929.134      180      RES_0603                                                                                      
+R1         ERP_101-1                 TopLayer RES_0603                   985.039       1354.567      270      RES_0603                                                                                      
+J2         Terminal_Block_4Pin_5.08P TopLayer TB_PLUG_5.08P_4P           829.471       2309.389      0        "6PINS TERMINAL BLOCK 5.08 PITCH"                                                             
+J3         Terminal_Block_3Pin_5.08P TopLayer TB_PLUG_5.08P_3P           1607.343      2309.389      0        "6PINS TERMINAL BLOCK 5.08 PITCH"                                                             
+R51        ERP_101-1                 TopLayer RES_0603                   2492.008      1466.535      0        RES_0603                                                                                      
+J1         CR1220-BH                 TopLayer CR1220-BH                  1653.543      1574.803      270      "BATTERY HOLDER COIN 12.5MM SMD"                                                              
+R15        ERP_101-1                 TopLayer RES_0603                   2033.465      1783.465      0        RES_0603                                                                                      
+R10        ERP_101-1                 TopLayer RES_0603                   2328.740      1783.465      0        RES_0603                                                                                      
+R9         ERP_101-1                 TopLayer RES_0603                   2328.740      1862.205      0        RES_0603                                                                                      
+R8         ERP_101-1                 TopLayer RES_0603                   2328.740      1940.945      0        RES_0603                                                                                      
+U3         RV-3028-C7                TopLayer RV-3028-C7                 2171.260      1852.362      90       "IC RTC CLK/CALENDAR I2C 8SON"                                                                
+U7         ICM42670P                 TopLayer ICM42670P                  2316.929      1466.535      180      "IMU ACCEL/GYRO/TEMP I2C/SPI"                                                                 
+R55        ERP_101-1                 TopLayer RES_0603                   2492.008      1535.433      180      RES_0603                                                                                      
+R52        ERP_101-1                 TopLayer RES_0603                   2287.401      1287.795      90       RES_0603                                                                                      
+R50        ERP_101-1                 TopLayer RES_0603                   2356.299      1287.795      90       RES_0603                                                                                      
+R48        ERP_101-1                 TopLayer RES_0603                   2492.008      1397.638      180      RES_0603                                                                                      
+R49        ERP_101-1                 TopLayer RES_0603                   2143.307      1397.638      0        RES_0603                                                                                      
+C9         ERP_102-1                 TopLayer CAPC1608X10N               2143.307      1535.433      180      "Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density"                               
+C8         ERP_102-1                 TopLayer CAPC1608X10N               2287.401      1624.016      90       "Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC Medium Density"                               
+U9         ERP_123-1                 TopLayer AMS1117_SOT223             2608.268      482.284       0        "AMS1117 LDO"                                                                                 
+U10        APX803L                   TopLayer APX803L                    2785.433      2165.354      180      "IC SUPERVISOR 1 CHANNEL SOT23"                                                               
+SW2        Generic6X6                TopLayer Generic6X6                 925.197       187.008       180      "Tactile Switch SPST-NO Top Actuated Surface Mount"                                           
+SW1        Generic6X6                TopLayer Generic6X6                 418.946       187.008       180      "Tactile Switch SPST-NO Top Actuated Surface Mount"                                           
+R63        ERP_101-1                 TopLayer RES_0603                   2598.425      2165.354      270      RES_0603                                                                                      
+R60        ERP_101-1                 TopLayer RES_0603                   2903.543      2165.354      270      RES_0603                                                                                      
+R59        ERP_101-1                 TopLayer RES_0603                   2667.323      2165.354      90       RES_0603                                                                                      
+R22        ERP_101-1                 TopLayer RES_0603                   1005.512      364.173       0        RES_0603                                                                                      
+R61        ERP_101-1                 TopLayer RES_0603                   2500.000      2283.465      180      RES_0603                                                                                      
+R62        ERP_101-1                 TopLayer RES_0603                   2785.433      2273.622      180      RES_0603                                                                                      
+Q1         ERP_105-1                 TopLayer MMBT2222                   1860.236      246.063       90       MMBT2222A                                                                                     
+F1         0679L                     TopLayer 0679L                      3690.945      1732.284      90       "FUSE BRD MNT 2SMD"                                                                           
+D5         LED_3MM_RIGHT_ANGLE       TopLayer LED_3MM_RED_RIGHT_ANGLE    2500.000      2421.260      180      LED_3MM                                                                                       
+D6         LED_3MM_RIGHT_ANGLE       TopLayer LED_3MM_YELLOW_RIGHT_ANGLE 2755.905      2421.260      180      LED_3MM                                                                                       
+C16        ERP_102-1                 TopLayer CAPC1608X10N               2608.268      207.846       270      "MLCC 0603"                                                                                   
+C3         ERP_102-1                 TopLayer CAPC1608X10N               866.142       364.173       180      "MLCC 0603"                                                                                   
+C5         ERP_102-1                 TopLayer CAPC1608X10N               2100.765      408.151       90       "MLCC 0603"                                                                                   

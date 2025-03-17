@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TGETVYWI
 
 [Document6]
-DocumentPath=MHE_Tracker_V3.PcbDoc
+DocumentPath=MHE_Tracker_V3_4LayerPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GLNOWBDE
 
 [Document7]
-DocumentPath=MHE_Tracker_V3.OutJob
+DocumentPath=MHE_Tracker_V3_4LayerPCB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=MHE_Tracker_V3.BomDoc
+DocumentPath=MHE_Tracker_V3_4LayerPCB.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

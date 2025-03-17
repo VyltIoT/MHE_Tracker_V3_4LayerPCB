@@ -1,0 +1,58 @@
+Added Component: Designator=C6(CAPC2012X13L)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J7-SH1
+Added Pin To Net: NetName=GND Pin=J7-SH2
+Added Pin To Net: NetName=GND Pin=J7-SH3
+Added Pin To Net: NetName=GND Pin=J7-SH4
+Added Pin To Net: NetName=3V3 Pin=R20-2
+Added Pin To Net: NetName=3V3 Pin=R23-2
+Added Pin To Net: NetName=3V3 Pin=R38-2
+Added Pin To Net: NetName=3V3 Pin=R39-2
+Added Pin To Net: NetName=SD_CS Pin=J7-2
+Added Pin To Net: NetName=SD_CS Pin=R39-1
+Added Net: Name=SD_CS
+Added Pin To Net: NetName=SD_MISO Pin=J7-7
+Added Pin To Net: NetName=SD_MISO Pin=R20-1
+Added Net: Name=SD_MISO
+Added Pin To Net: NetName=SD_MOSI Pin=J7-3
+Added Pin To Net: NetName=SD_MOSI Pin=R38-1
+Added Net: Name=SD_MOSI
+Added Pin To Net: NetName=SD_SCLK Pin=J7-5
+Added Pin To Net: NetName=SD_SCLK Pin=R23-1
+Added Net: Name=SD_SCLK
+Added Member To Class: ClassName=Controller Member=Component C6 MLCC_0805
+Added Member To Class: ClassName=Controller Member=Component R20 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R23 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R38 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R39 ERP_101-1
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
