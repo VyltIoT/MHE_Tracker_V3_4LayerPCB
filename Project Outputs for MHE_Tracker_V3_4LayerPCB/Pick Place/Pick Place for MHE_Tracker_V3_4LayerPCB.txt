@@ -4,14 +4,14 @@ C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Alt
 ========================================================================================================================
 File Design Information:
 
-Date:       17-03-25
-Time:       17:34
-Revision:   8f77dc4fc88ee4996597ee48f49533ede0782f5a
+Date:       18-03-25
+Time:       13:01
+Revision:   964e589fed82182a3cc1ac5f14184b79038eb5bd
 Variant:    No variations
 Units used: mil
 
 Designator Comment                   Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                   
-R40        ERP_101-1                 TopLayer RES_0603                   1043.307      440.945       0        RES_0603                                                                                      
+R40        ERP_101-1                 TopLayer RES_0603                   1043.307      561.024       0        RES_0603                                                                                      
 R39        ERP_101-1                 TopLayer RES_0603                   718.504       1112.205      90       RES_0603                                                                                      
 R38        ERP_101-1                 TopLayer RES_0603                   797.244       1112.205      90       RES_0603                                                                                      
 R23        ERP_101-1                 TopLayer RES_0603                   797.244       521.653       270      RES_0603                                                                                      
@@ -40,7 +40,7 @@ R30        ERP_101-1                 TopLayer RES_0603                   1043.30
 R29        ERP_101-1                 TopLayer RES_0603                   1043.307      836.614       0        RES_0603                                                                                      
 R28        ERP_101-1                 TopLayer RES_0603                   1043.307      905.512       0        RES_0603                                                                                      
 R26        ERP_101-1                 TopLayer RES_0603                   2234.252      1043.307      180      RES_0603                                                                                      
-R25        ERP_101-1                 TopLayer RES_0603                   2234.252      531.496       0        RES_0603                                                                                      
+R25        ERP_101-1                 TopLayer RES_0603                   2234.252      561.024       0        RES_0603                                                                                      
 R24        ERP_101-1                 TopLayer RES_0603                   1043.307      974.409       0        RES_0603                                                                                      
 R16        ERP_101-1                 TopLayer RES_0603                   1250.787      1354.567      270      RES_0603                                                                                      
 C2         ERP_102-1                 TopLayer CAPC1608X10N               2033.465      1940.945      180      "MLCC 0603"                                                                                   

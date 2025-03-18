@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: MHE_Tracker_V3_4LayerPCB.PcbDoc   17-03-2025  05:24:58 PM
+NCDrill File Report For: MHE_Tracker_V3_4LayerPCB.PcbDoc   18-03-2025  01:01:39 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1 to L4
@@ -9,7 +9,7 @@ ASCII RectHoles File : MHE_Tracker_V3_4LayerPCB-RectHoles.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      12mil (0.3mm)                                             Round             326       PTH        18.55inch (471.11mm)
-T2      16mil (0.4mm)                                             Round             71        PTH        18.72inch (475.52mm)
+T2      16mil (0.4mm)                                             Round             71        PTH        18.83inch (478.16mm)
 T3      20mil (0.5mm)                                             Round             36        PTH        4.56inch (115.70mm)
 T4      32mil (0.8mm)                                             Round             6         PTH        2.33inch (59.23mm)
 T5      32mil (0.81mm)                                            Round             6         PTH        0.50inch (12.70mm)
